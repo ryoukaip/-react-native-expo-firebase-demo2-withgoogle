@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "42717602420",
+    "project_id": "react-firebase-demo-f9ba3",
+    "storage_bucket": "react-firebase-demo-f9ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42717602420:android:f6a5a3ce9bbdbec292e721",
+        "android_client_info": {
+          "package_name": "com.ryoukaip.reactfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42717602420-gom7rfqq5lmdf8eqj2f7ijlpcbrgksv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryoukaip.reactfirebasedemo",
+            "certificate_hash": "ef1f057e3265f17646a933844c82f5d112135b5d"
+          }
+        },
+        {
+          "client_id": "42717602420-rki2rm4e7fenq60gheflpb2ueg81nlr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryoukaip.reactfirebasedemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "42717602420-vse36kc27vrqqhl3c36ulf2hef1b1e0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryoukaip.reactfirebasedemo",
+            "certificate_hash": "6bf186cb1be683ddb02a970166c35f8c629b1060"
+          }
+        },
+        {
+          "client_id": "42717602420-rp9ps55euo8dni67ig41krj2gcjadh2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzv2KKLl-tdirgKh0yHp_QQaguMU-DzpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42717602420-rp9ps55euo8dni67ig41krj2gcjadh2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
